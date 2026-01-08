@@ -1,16 +1,10 @@
 # Retrocity 2077 (Phaser + JavaScript)
 
-# Retrocity 2077
-
 A cyberpunk platformer made with **Phaser** and **JavaScript**, inspired by Cyberpunk 2077. Assets are from Anzimuz.
-
----
 
 ## Demo
 
 ![Retrocity Screenshot](assets/screenshot.png) <!-- Add a screenshot image in assets folder -->
-
----
 
 ## Features
 
@@ -18,9 +12,7 @@ A cyberpunk platformer made with **Phaser** and **JavaScript**, inspired by Cybe
 -  Stylized retro-futuristic graphics
 -  Browser-based, playable with keyboard controls
 -  Built with Phaser 3 and modern JavaScript
-
----
-
+   
 ## Installation
 
 1. Clone the repository:
@@ -47,8 +39,6 @@ npm start
 http://localhost:3000
 ```
 
----
-
 ## Folder Structure
 
 ```
@@ -62,13 +52,10 @@ Retrocity-2077/
 └─ 
 ```
 
----
-
 ## Controls
 
 * **Arrow keys / WASD** → Move
 * **Space** → Jump
----
 
 ## Acknowledgements
 
