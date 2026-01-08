@@ -45,11 +45,10 @@ http://localhost:3000
 Retrocity-2077/
 ├─ assets/         # Game images, sprites, audio
 ├─ src/            # Game source code
-└─ Screenshots     # Screenshots of the game 
+└─ screenshots     # Screenshots of the game 
 ├─ index.html      # Main HTML file
 ├─ package.json    # NPM project file
 └─ README.md       # Project documentation
-└─ 
 ```
 
 ## Controls
