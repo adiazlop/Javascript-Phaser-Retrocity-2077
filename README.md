@@ -1,6 +1,6 @@
 # Retrocity 2077 (Phaser + JavaScript)
 
-A cyberpunk platformer made with **Phaser** and **JavaScript**, inspired by Cyberpunk 2077. Assets are from Anzimuz.
+A cyberpunk platformer built with [Phaser 3](https://phaser.io/) and **JavaScript**, inspired by Cyberpunk 2077. Assets by [Anzimuz](https://www.anzimuz.com)
 
 ## Demo
 
@@ -58,7 +58,7 @@ Retrocity-2077/
 
 ## Acknowledgements
 
-* Assets by [Anzimuz](https://www.anzimuz.com)
-* Built with [Phaser 3](https://phaser.io/)
+*
+* 
 
 ---
