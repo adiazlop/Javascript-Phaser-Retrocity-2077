@@ -1,4 +1,4 @@
-# README.md for Retrocity 2077 (Phaser + JavaScript)
+# Retrocity 2077 (Phaser + JavaScript)
 
 # Retrocity 2077
 
